@@ -31,7 +31,6 @@ Developed a fully functional calculator using **JavaScript**.
 
 ---
 
-## 🧠
-What I Learned
+## 🧠 What I Learned
 - Gained hands-on experience in core web development concepts like HTML structure, CSS styling, and JavaScript logic.
 - Strengthened skills in building interactive UIs and handling real-time user inputs using JavaScript.
